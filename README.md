@@ -1,4 +1,4 @@
-![Atliq Hardware](https://github.com/manas74/Business-Insight-360/blob/main/Atliq_Hardware_project_img.jpg)
+![Atliq Hardware](https://github.com/manas74/Astral_excel_Project/blob/main/Astral%20Project_excel_pdf_page-0001.jpg)
 # Atliq Hardware - Business Performance Analysis
 ### *Problem Statement*
 The main problem is to analyze the performance of Astral Adhesive's customers over the years and determine which customers had the most significant impact on sales growth from 2020 to 2021.
